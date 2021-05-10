@@ -1,6 +1,6 @@
 # ETicaretProjesi
-e-ticaret sitesine kayıt ve giriş yapma simülasyonu
-<h3>Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.<br>
+<h4>e-ticaret sitesine kayıt ve giriş yapma simülasyonu
+Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.<br>
 Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.<br>
 Parola en az 6 karakterden oluşmalıdır.<br>
 E-posta alanı e-posta formatında olmalıdır. (Regex ile yapınız. Araştırma konusu)<br>
@@ -16,4 +16,4 @@ Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)<br
 *Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.<br>
 
 E-posta ve parola zorunludur<br>
-*Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<h3><br>
+*Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.</h4><br>
