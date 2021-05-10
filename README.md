@@ -9,11 +9,11 @@ Ad ve soyad en az iki karakterden oluşmalıdır.<br>
 Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)<br>
 Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)<br>
 Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
-
+<br>
 Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)<br>
-*İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)<br>
-*Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
-*Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.<br>
-
-E-posta ve parola zorunludur<br>
-*Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.</h4><br>
+ *İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)<br>
+ *Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
+<br>
+  Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.<br>
+ *E-posta ve parola zorunludur<br>
+ *Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.</h4><br>
