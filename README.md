@@ -9,11 +9,11 @@
 *Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)<br>
 *Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)<br>
 *Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br></h4>
-<br>
+
 <h3>Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)<br></h3>
  <h4>*İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)<br>
  *Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br></h4>
-<br>
+
 <h3>Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.<br></h3>
  <h4>*E-posta ve parola zorunludur<br>
  *Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.</h4><br>
